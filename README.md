@@ -14,3 +14,4 @@ whenever the system found any appointment available, it will buzz you by making 
 
 Please be aware that we use timer to in between to manage the delay for openning the page and also to act like human...:) not detecting as bot
 
+Enjoy!
